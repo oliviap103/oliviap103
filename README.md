@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
 <h3 align="center">A fullstack developer from London</h3>
 
-<h3 align="center">Currently learning Python on Hacker Rank 😊</h3>
+<h3 align="center">Currently practicing Python and Ruby on Hacker Rank 😊</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
